@@ -17,7 +17,7 @@ export const admin = new AdminForth({
     loginPromptHTML: "Use email <b>adminforth</b> and password <b>adminforth</b> to login",
   },
   customization: {
-    brandName: "myadmin2",
+    brandName: "myadmin",
     title: "myadmin2",
     favicon: '@@/assets/favicon.png',
     brandLogo: '@@/assets/logo.svg',
